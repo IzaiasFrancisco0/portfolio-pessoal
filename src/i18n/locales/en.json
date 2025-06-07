@@ -1,0 +1,54 @@
+{
+  "title-about": "About Me",
+  "description-about": "Full-Stack Developer passionate about building modern, high-performance applications focused on delivering the best user experience. I have solid experience with technologies such as JavaScript, TypeScript, React, and Node.js. I'm always looking to learn something new and apply my knowledge to solve real-world problems with smart and scalable solutions.",
+  
+  "title-contact": "Contact",
+  "description-contact-email": "Email: izaiasfrancisco2020@gmail.com",
+  "description-contact-number": "Phone: +55 34 99778-0729",
+  "description-contact-location": "Location:  Uberlândia-MG, Brasil",
+
+  "title-media": "Social Media",
+
+  "title-form": "Send a Message",
+  "input-name": "Your name",
+  "input-number": "Your email",
+  "input-message": "Your message",
+  "btn": "Send",
+
+    "about-footer": "Full-Stack Developer passionate about building modern, high-performance applications focused on delivering the best user experience.",
+
+  "menu-about": "About",
+  "menu-projects": "Projects",
+  "menu-tecnologia": "Technologies",
+  "menu-contact": "Contact",
+
+  "home.titleMe": "Hi, I'm Izaias Francisco",
+  "home.descriptionMe": "Front-End Developer focused on React, TailwindCSS, and Node.js.",
+  
+  "title-tec": "Technologies",
+  "nivel": "Intermediate",
+  "nivel2": "Advanced",
+
+  "projetos-title": "Projects",
+  "btn-project": "View Project",
+
+  "project1-title": "Movie Site",
+  "project1-desc": "Movie site built with React, TailwindCSS, Node.js, Fastify and MongoDB",
+
+  "project2-title": "Barbershop System",
+  "project2-desc": "Barbershop system built with React and CSS",
+
+  "project3-title": "Registration Form",
+  "project3-desc": "Registration form built with React, TailwindCSS, Node.js, Express and MongoDB",
+
+  "project4-title": "Burger Delivery",
+  "project4-desc": "Burger site built with React, TailwindCSS, Node.js, Express and MongoDB",
+
+  "project5-title": "Landing Page Builder",
+  "project5-desc": "Landing page built with React and TailwindCSS",
+
+  "project6-title": "Pizzeria Delivery",
+  "project6-desc": "Pizzeria delivery built with HTML, CSS and JavaScript",
+
+  "footer-copyright": "© {{year}} Izaias Francisco. All rights reserved."
+}
